@@ -5,4 +5,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yas3jb&" alt="yas3jb" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yas3jb&" alt="yas3jb" /></p>
